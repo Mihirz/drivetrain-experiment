@@ -13,7 +13,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 @Disabled
 public class SampleTeleOp extends CommandOpMode {
 
-    static final double WHEEL_DIAMETER = 100.0; // millimeters
+    static final double WHEEL_DIAMETER = 75.000104; // millimeters
 
     private MotorEx m_left, m_right;
     private DriveSubsystem m_drive;
